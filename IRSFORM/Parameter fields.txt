@@ -1,0 +1,69 @@
+Your first name and middle initial
+Last name
+Your social security number 
+If joint return spouses first name and middle initial
+Last name
+Spouses social security number
+Home address (number and street). If you have a P.O. box, see instructions.
+Apt. no.
+City, town, or post office. If you have a foreign address, also complete spaces below. 
+ State
+ZIP code
+Foreign country name
+Foreign province/state/county
+Foreign postal code
+1 Wages, salaries, tips, etc. Attach Form(s) W-2 . . . . . . . . . . . . . . . . 
+2a Tax-exempt interest. . .
+2b Taxable interest. . . . .
+3a Qualified dividends. . .
+3b Ordinary dividends. . . . .
+4a IRA distributions. . . .
+4b Taxable amount . . . . . .
+5a Pensions and annuities . .
+5b Taxable amount . . . . . .
+6a Social security benefits . .
+6b Taxable amount . . . . . .
+7 Capital gain or (loss). Attach Schedule D if required. If not required, check here . . . .
+8 Other income from Schedule 1, line 9 . . . . . . . . . . . . . . . . . . .
+9 Add lines 1, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income . . . . . . . . .
+10 Adjustments to income: 
+10a From Schedule 1, line 22 . . . . . . . . . . . . . .
+10b Charitable contributions if you take the standard deduction. See instructions
+10c Add lines 10a and 10b. These are your total adjustments to income . . . . . . . .
+11 Subtract line 10c from line 9. This is your adjusted gross income . . . . . . . . .
+12 Standard deduction or itemized deductions (from Schedule A) . . . . . . . . . .
+13 Qualified business income deduction. Attach Form 8995 or Form 8995-A . . . . . . . .
+14 Add lines 12 and 13 . . . . . . . . . . . . . . . . . . . . . . . .
+15 Taxable income. Subtract line 14 from line 11. If zero or less, enter -0- . . . . . . . . .
+16 Tax (see instructions). Check if any from Form(s): 1 or 2
+17 Amount from Schedule 2, line 3 . . . . . . . . . . . . . . . . . . . .
+18 Add lines 16 and 17 . . . . . . . . . . . . . . . . . . . . . . . .
+19 Child tax credit or credit for other dependents . . . . . . . . . . . . . . . .
+20 Amount from Schedule 3, line 7 . . . . . . . . . . . . . . . . . . . .
+21 Add lines 19 and 20 . . . . . . . . . . . . . . . . . . . . . . . .
+22 Subtract line 21 from line 18. If zero or less, enter -0- . . . . . . . . . . . . . .
+23 Other taxes, including self-employment tax, from Schedule 2, line 10 . . . . . . . . .
+24 Add lines 22 and 23. This is your total tax . . . . . . . . . . . . . . . .
+25 Federal income tax withheld from:
+25a Form(s) W-2 . . . . . . . . . . . . . . . . . .
+25b Form(s) 1099 . . . . . . . . . . . . . . . . . .
+25c Other forms (see instructions) . . . . . . . . . . . . .
+25d Add lines 25a through 25c . . . . . . . . . . . . . . . . . . . . . .
+26 2020 estimated tax payments and amount applied from 2019 return . . . . . . . . . .
+27 Earned income credit (EIC) . . . . . . . . . . . . . .
+28 Additional child tax credit. Attach Schedule 8812 . . . . . . . 28
+29 American opportunity credit from Form 8863, line 8 . . . . . . .
+30 Recovery rebate credit. See instructions . . . . . . . . . .
+31 Amount from Schedule 3, line 13 . . . . . . . . . . . .
+32 Add lines 27 through 31. These are your total other payments and refundable credits . . .
+33 Add lines 25d, 26, and 32. These are your total payments . . . . . . . . . . .
+34 If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid . .
+35a Amount of line 34 you want refunded to you. If Form 8888 is attached, check here . . .
+35b Routing number
+35c Type:
+35d Account number
+36 Amount of line 34 you want applied to your 2021 estimated tax . .
+37 Subtract line 33 from line 24. This is the amount you owe now . . . . . . . . . .
+38 Estimated tax penalty (see instructions) . . . . . . . . .
+
+
